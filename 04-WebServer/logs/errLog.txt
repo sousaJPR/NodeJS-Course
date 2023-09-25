@@ -1,0 +1,13 @@
+2023/09/21	16:58:35	200f1232-02f0-456b-bd33-cc4a15361645	TypeError: fsPromises.readFle is not a function
+2023/09/21	18:04:41	bd8811bd-be28-4e74-802f-900c7b05cfdb	Error: Not allowed by CORS
+2023/09/22	14:45:07	6085ae48-b162-48f1-9ee3-479182a54507	Error: ENOENT: no such file or directory, stat 'X:\Cursos\NodeJs\NodeJS-Course\04-WebServer\routes\views\index.html'
+2023/09/25	10:19:17	71738b7a-1580-4a6a-aff3-3c1c8e0d0b85	ReferenceError: cookies is not defined
+2023/09/25	10:20:07	91610bb4-8564-472a-8d45-b0519e481daf	ReferenceError: cookies is not defined
+2023/09/25	10:21:03	12cd4059-bc9e-45d4-877f-bd58721346bf	ReferenceError: cookies is not defined
+2023/09/25	10:23:52	43e65086-166a-4c22-b4e2-d1d1bc30bb21	ReferenceError: cookies is not defined
+2023/09/25	10:25:16	1352a82d-05af-4991-b9c6-49fb2b8f22db	SyntaxError: Unexpected token e in JSON at position 0
+2023/09/25	10:25:24	761ebe7c-e1cf-491a-ad78-5afa7f1e7f50	SyntaxError: Unexpected token e in JSON at position 0
+2023/09/25	10:25:47	cf1b94ea-43f1-46ed-a636-b4acded8eede	SyntaxError: Unexpected token e in JSON at position 0
+2023/09/25	11:33:20	5bb4088c-1a52-4b72-8567-38d55e9af23d	SyntaxError: Unexpected token } in JSON at position 23
+2023/09/25	11:33:27	1eb5dcb6-936a-417f-94eb-23d93ca700ce	ReferenceError: filteredArray is not defined
+2023/09/25	15:17:14	ffce03bf-b998-4a87-8077-4b20605bc751	SyntaxError: Unexpected token b in JSON at position 22
